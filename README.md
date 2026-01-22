@@ -8,21 +8,28 @@ The files in this repository are self-contained HTML/JavaScript artifacts that u
 
 ## 🚀 Getting Started
 
-To view any of the visualizations:
+The easiest way to view these artifacts is via the **Live Demos** linked below. 
+
+Alternatively:
 1. Clone this repository or download the specific `.html` file.
 2. Open the file in any modern web browser.
-3. Use the sidebar controls to explore different parameters, seeds, and variations.
 
 ## 📂 Artifacts
 
-### 1. Recursive Resonance (`recursive_resonance.html`)
+### 1. Recursive Resonance
+**[🔗 Live Demo](https://changtimwu.github.io/agent-skills-demo/recursive_resonance.html)**
+
 A conceptual visualization of how Large Language Models (LLMs) process context.
+- **File:** `recursive_resonance.html`
 - **Concept:** Demonstrates that LLMs re-read the entire accumulated conversation history for every new inference.
 - **Visuals:** Features a "top-down scan" effect during model turns, a pulsing "Inference Engine" to represent GPU load, and information flow particles.
 - **Interaction:** A "Next Turn" button allows you to step through the conversation and observe the context accumulation process.
 
-### 2. Algorithmic Order: Bubble Sort (`bubble_sort_artifact.html`)
+### 2. Algorithmic Order: Bubble Sort
+**[🔗 Live Demo](https://changtimwu.github.io/agent-skills-demo/bubble_sort_artifact.html)**
+
 A classic sorting algorithm visualized as generative art.
+- **File:** `bubble_sort_artifact.html`
 - **Concept:** Shows the emergence of structure from entropy.
 - **Interaction:** Control the number of elements, the sorting speed, and customize the color palette for active vs. sorted states.
 
